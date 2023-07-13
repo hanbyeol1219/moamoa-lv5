@@ -13,6 +13,16 @@ import { IoMdCloseCircleOutline } from "react-icons/io";
 const TodayExpenseDetailModal = ({ todayExpense }) => {
   const dispatch = useDispatch();
 
+  const { isLoading, isError } = useTodayExpenses();
+
+  if (isLoading) {
+    return <p>Loading..</p>;
+  }
+  if (isError) {
+    return <p>Error..</p>;
+  }
+
+
   return (
     <S.ModalBackDrop>
       <S.ModalContainer>
