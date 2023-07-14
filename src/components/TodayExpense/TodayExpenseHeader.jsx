@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import * as S from "./TodayExpense.styled";
 import SettingExpenseColor from "./SettingExpenseColor";
 import Button from "../Button/Button";
+import { removeCookie } from "../../Cookie";
 
 const TodayExpenseHeader = ({ todayExpense, yesterdayExpense }) => {
   const navigate = useNavigate();
@@ -31,8 +32,16 @@ const TodayExpenseHeader = ({ todayExpense, yesterdayExpense }) => {
     }
   };
 
+  const handleLogoutButtonClick = () => {
+    removeCookie("token");
+    navigate("/");
+  };
+
   return (
     <S.Layout>
+      <Button onClick={handleLogoutButtonClick} btnType={"logout"}>
+        로그아웃
+      </Button>
       <S.Title onClick={() => navigate("/")}>MOAMOA</S.Title>
       <Button onClick={() => navigate("/economyTip")} btnType={"navigate"}>
         절약 꿀 TIP 보러가기!

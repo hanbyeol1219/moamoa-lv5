@@ -1,0 +1,111 @@
+{
+  "expenseLists": [
+    {
+      "expenseDate": "230709",
+      "expenceRegTime": "20230707120652",
+      "expenseAmount": "3,000",
+      "expenseDetails": "옆집 꼬마 용돈 줌 역시 난 착해",
+      "id": "E6n-1JK"
+    },
+    {
+      "expenseDate": "230709",
+      "expenceRegTime": "20230707140557",
+      "expenseAmount": "1,000",
+      "expenseDetails": "옆집 꼬마 용돈 줌 역시 난 착해",
+      "id": "7JlBywA"
+    },
+    {
+      "expenseDate": "230710",
+      "expenceRegTime": "20230709225108",
+      "expenseAmount": "2,000",
+      "expenseDetails": "옆집 꼬마 용돈 줌 역시 난 착해",
+      "id": "Yrmyqln"
+    },
+    {
+      "expenseDate": "230712",
+      "expenceRegTime": "20230712114407",
+      "expenseAmount": "8,000",
+      "expenseDetails": "10000원 맞추기",
+      "id": "vUQK_cK"
+    },
+    {
+      "expenseDate": "230712",
+      "expenceRegTime": "20230712114416",
+      "expenseAmount": "40,000",
+      "expenseDetails": "5만원 맞추기",
+      "id": "JGmzAeg"
+    },
+    {
+      "expenseDate": "230712",
+      "expenceRegTime": "20230712155042",
+      "expenseAmount": "10,000",
+      "expenseDetails": "이것도 사고 저것도 사고 그것도 사고 어제도 사고 오늘도 사고 내일도 살거고 엄마도 사주고 아빠도 사주고 오빠도 사주고 언니도 사주고 지금은 새벽이고 졸리고 마지막 테스트중이고 힘들고 ",
+      "id": "sRHXHC1"
+    },
+    {
+      "expenseDate": "230712",
+      "expenceRegTime": "20230712162013",
+      "expenseAmount": "50,000",
+      "expenseDetails": "나는 5만원을 한 번에 쓰는 멋쟁이야!",
+      "id": "ryLCtO3"
+    },
+    {
+      "expenseDate": "230713",
+      "expenceRegTime": "20230713011133",
+      "expenseAmount": "5,000",
+      "expenseDetails": "편의점 먹방 냠냠",
+      "id": "4U59LyV"
+    },
+    {
+      "expenseDate": "230713",
+      "expenceRegTime": "20230713011405",
+      "expenseAmount": "100,000",
+      "expenseDetails": "나를 위한 투자",
+      "id": "ekPa1ak"
+    }
+  ],
+  "economyTipPosts": [
+    {
+      "id": "1",
+      "economyTipPostDate": "230706",
+      "economyTipPostTime": "230706163651",
+      "economyTipPostTitle": " 정부 보조금 찾기",
+      "economyTipPostContent": "정부 지원금 혜택을 모르고 지나친다면 아까울 것이다.\n‘정부24’ 홈페이지 내 ‘보조금24’ 메뉴에 접속해 연령, 거주지, 소득 등의 정보를 입력하면 개인 맞춤형 정부(지자체) 보조금 정보를 한 번에 볼 수 있다. \n진행이 어렵다면 ‘보조금24 활용안내서’ 앱을 찾아보거나, 주민센터에서 ‘보조금24 정보제공 동의 신청서’ 작성 후 자녀의 도움을 받아도 된다. \n‘국민비서 구삐’ 알림 신청 또는 ‘보조금24 신청알리미’ 앱을 설치하면 관련 정보를 때맞춰 알려준다.\n복지로 홈페이지를 통해 ‘맞춤형 급여안내’(복지멤버십) 서비스를 신청하면 개인 맞춤형 복지 정책을 생애주기에 따라 안내받을 수 있다.sdf"
+    },
+    {
+      "economyTipPostDate": "230713",
+      "economyTipPostTime": "20230713000344",
+      "economyTipPostTitle": "정리의 1단계. 꺼내고 버리는 것",
+      "economyTipPostContent": "통계청의 가계동향조사에 따르면 우리는 지출의 50%를 물건을 구입하는데 사용한다고 합니다. 하지만 ‘내가 가진 물건=내게 필요한 물건‘은 아닙니다. 아무리 좋은 옷이 많아도 자주 입는 옷은 10벌 가운데 두세벌에 불과한 것처럼, 실제 사용하는 물건은 전체 물건의 20%에 불과하기 때문입니다. 수납장 속의 물건을 모두 꺼내고 사용하는 물건과 사용하지 않는 물건으로 구분해 사용하지 않는 물건은 버리거나 처분합니다. 또한 물건을 버릴 때는 내가 이 물건을 얼마에 샀는지 떠올려, 한번 버린 물건은 두 번 다시 구입하지 않도록 해야 합니다.",
+      "id": "HKtxIvs"
+    },
+    {
+      "economyTipPostDate": "230713",
+      "economyTipPostTime": "20230713012727",
+      "economyTipPostTitle": "정리의 2단계. 분류하고 수납하는 것",
+      "economyTipPostContent": "물건을 종류별로 구분한 후 사용빈도를 고려해 자주 쓰는 물건은 꺼내기 쉬운 곳에, 가끔 쓰는 물건은 다소 불편한 위치에 수납합니다. 물건을 종류별로 구분해두면 물건의 재고량을 파악할 수 있어 불필요한 물건을 쌓아두는 습관을 줄일 수 있습니다. 또한 물건을 수납할 때는 칸막이를 이용해 한 칸에 한 종류씩 섞이지 않게 집어넣습니다.",
+      "id": "ftIQKrz"
+    },
+    {
+      "economyTipPostDate": "230713",
+      "economyTipPostTime": "20230713012755",
+      "economyTipPostTitle": "정리의 3단계. 꼭 필요한 것만 구입하는 것",
+      "economyTipPostContent": "미니멀라이프란 물건을 필요한 만큼 최소한만 남겨 홀가분하게 사는 라이프스타일을 말합니다. 버리기를 통해 물건의 수를 줄여 깔끔하게 정리해 두어도, 불필요한 물건을 자꾸 사들이게 되면 집안은 어느새 물건이 넘치게 됩니다. 하지만 미니멀라이프의 마음가짐으로 살림을 한다면 물건이 늘어나지 않게 되기 때문에 정리상태도 오랫동안 유지할 수 있고 지출도 줄일 수 있습니다. 소비사회에서는 쓸모없는 물건도 마케팅을 통해 필요한 물건으로 둔갑하게 됩니다. 필요한 물건과 갖고 싶은 물건을 구분해, 필요하지 않은 물건까지 끊임없이 사들이는 잘못된 소비습관을 줄이는 것이 절약의 핵심입니다.",
+      "id": "RxJqPe2"
+    },
+    {
+      "economyTipPostDate": "230713",
+      "economyTipPostTime": "20230713013430",
+      "economyTipPostTitle": "카드 포인트 현금화하기",
+      "economyTipPostContent": "야금야금 쌓인 카드 포인트도 모이면 쏠쏠하다.\n 카드사마다 일일이 확인할 필요 없이, 금융결제원 ‘계좌정보 통합관리서비스’ 또는 여신금융협회 ‘카드포인트 통합조회 시스템’을 이용하면 된다.\n 모아둔 카드 포인트를 확인해 현금화(계좌이체) 또는 기부도 가능하다. \n금융결제원 사이트에는 카드 및 계좌 자동이체 목록도 나오니 불필요한 건은 해지 신청해 새는 돈을 막자.",
+      "id": "sNnIfcV"
+    },
+    {
+      "economyTipPostDate": "230713",
+      "economyTipPostTime": "20230713013508",
+      "economyTipPostTitle": "내일배움카드로 지원받기",
+      "economyTipPostContent": "자격증 취득 등 뭔가 배우려 한다면 해당 기관이 ‘내일배움카드’ 사용 가능처인지 알아보자.\n카드 발급 후 5년간 300만~500만 원의 직업능력훈련비를 지원받을 수 있다.",
+      "id": "4RmV3XX"
+    }
+  ]
+}

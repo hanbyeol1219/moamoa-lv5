@@ -8,7 +8,7 @@ const Button = ({ onClick, children, btnType }) => {
       case "expenseAdd":
         return `width : 100px; padding : 10px 0; background-color: black; border-radius: 100px; color: white`;
       case "navigate":
-        return `width: 220px; padding: 25px 0; background-color: #f5f5f5; border-radius: 100px 0 0 100px; position: absolute; top: 30px; right: 0;`;
+        return `width: 220px; padding: 25px 0; background-color: #f5f5f5; border-radius: 0 100px 100px 0; position: absolute; top: 30px; left: 0;`;
       case "modalClose":
         return `width: 30px; height: 30px; position: absolute; top: 10px; right: 30px`;
       case "modalBlack":
@@ -23,6 +23,10 @@ const Button = ({ onClick, children, btnType }) => {
         return `width: 495px; padding: 10px 0; background-color: black;  border-radius: 10px; color: white; font-size: 18px`;
       case "economyPageGray":
         return `width: 495px; padding: 10px 0; background-color: #5B5B5B;  border-radius: 10px; color: white; font-size: 18px`;
+      case "logout":
+        return `position: absolute; top: 20px; right: 25px; color:#5B5B5B`;
+      case "loginSignIn":
+        return `width: 100%; padding: 15px 0;  background-color: black;  border-radius: 100px; color: white; font-size: 18px; margin-top: 10px`;
       default:
         return;
     }
